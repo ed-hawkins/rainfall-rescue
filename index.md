@@ -1,3 +1,7 @@
 layout: page
 title: "RAINFALL RESCUE"
-permalink: 
+permalink: /
+
+Current locations with long records:
+<img src="long_map.png">
+
