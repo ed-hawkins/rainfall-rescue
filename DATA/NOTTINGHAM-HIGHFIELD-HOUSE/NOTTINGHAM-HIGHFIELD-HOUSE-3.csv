@@ -1,5 +1,5 @@
 NOTTINGHAM,,,,,,,,
-Grid ref,NaN,Long,NaN,Lat,NaN,Elevation,,ft
+Grid ref,SK571402,Long,-1.151,Lat,52.956,Elevation,NaN,ft
 Station no,,,,,,,,
 ,,,,,,,,
 ,1806,1807,1808,1809,1810,1811,1812,1813
@@ -16,3 +16,5 @@ October,1.1,1.7,2.57,0.31,2.72,2.9,3.88,6.08
 November,2.75,3.33,2.18,1.18,3.02,1.95,2.21,1.85
 December,4.25,0.93,1.8,1.81,2.07,1.69,0.78,1.53
 Total,25.56,23.32,22.56,23.01,23.15,23.41,24.42,22.65
+,,,,,,,,
+"NOTE: Location unknown, central estimate given",,,,,,,,
