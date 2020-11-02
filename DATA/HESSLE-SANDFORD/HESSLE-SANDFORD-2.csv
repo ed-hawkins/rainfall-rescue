@@ -1,24 +1,24 @@
-﻿HESSLE - WESTFIELD RISE,,,,
+﻿HESSLE - WESTFIELD RISE,,,,,,,,
 Grid ref,TA028268,Long,-0.443,Lat,53.727,Elevation,50,ft
-Station no,3392/3,,,
-,,,,
-,1944,1945,1946,1947
-January,2.48,3.55,2.40,2.42
-February,2.66,1.75,2.36,2.50
-March,0.69,0.54,1.52,4.31
-April,2.65,1.95,0.86,1.72
-May,1.90,1.44,1.71,0.57
-June,2.09,2.21,3.35,2.34
-July,2.42,1.13,3.31,2.95
-August,3.43,2.51,4.55,0.45
-September,3.60,1.40,3.86,1.08
-October,2.64,2.25,1.48,0.70
-November,4.00,0.98,5.72,1.79
-December,1.28,1.35,2.59,1.97
-Total,29.84,21.06,33.71,22.80
-,,,,
-TYRain_1941-1950_22_pt1/103,,,,
-,,,,
-"# Readings for March and April 1945 are shown in brackets on the sheet and described as 'apportioned', They have been retained.",,,,
-#,,,,
-# The gauge temporarily relocated to Westfield Rise from the main Sandford site (about 600m SSW) for 1944-1947.,,,,
+Station no,3392/3,,,,,,,
+,,,,,,,,
+,1944,1945,1946,1947,,,,
+January,2.48,3.55,2.40,2.42,,,,
+February,2.66,1.75,2.36,2.50,,,,
+March,0.69,0.54,1.52,4.31,,,,
+April,2.65,1.95,0.86,1.72,,,,
+May,1.90,1.44,1.71,0.57,,,,
+June,2.09,2.21,3.35,2.34,,,,
+July,2.42,1.13,3.31,2.95,,,,
+August,3.43,2.51,4.55,0.45,,,,
+September,3.60,1.40,3.86,1.08,,,,
+October,2.64,2.25,1.48,0.70,,,,
+November,4.00,0.98,5.72,1.79,,,,
+December,1.28,1.35,2.59,1.97,,,,
+Total,29.84,21.06,33.71,22.80,,,,
+,,,,,,,,
+TYRain_1941-1950_22_pt1/103,,,,,,,,
+,,,,,,,,
+"# Readings for March and April 1945 are shown in brackets on the sheet and described as 'apportioned', They have been retained.",,,,,,,,
+#,,,,,,,,
+# The gauge temporarily relocated to Westfield Rise from the main Sandford site (about 600m SSW) for 1944-1947.,,,,,,,,
