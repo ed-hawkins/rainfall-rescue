@@ -1,0 +1,30 @@
+﻿FELIXKIRK - MOUNT ST JOHN - CARY GAUGE,,,,,,,,,,
+Grid ref,SE474848,Long,-1.274,Lat,54.257,Elevation,523,ft,,
+Station no,3431,,,,,,,,,
+,,,,,,,,,,
+,1904,1905,1906,1907,1908,1909,1910,1911,1912,1913
+January,2.15,0.38,2.73,0.63,1.20,0.59,3.01,1.71,3.08,2.63
+February,2.19,1.03,1.66,1.50,1.96,0.79,2.03,0.86,1.89,0.93
+March,1.52,1.94,2.07,0.93,2.76,4.24,0.57,1.80,2.85,2.13
+April,1.61,2.57,1.11,2.29,3.13,1.93,1.64,1.31,0.00,3.06
+May,3.57,1.12,2.92,3.06,1.34,1.03,1.90,0.71,2.34,1.51
+June,1.16,1.26,1.34,3.42,0.25,2.75,1.38,3.31,5.93,1.83
+July,1.58,1.23,1.47,1.61,3.79,2.74,2.36,0.51,3.77,0.45
+August,3.22,2.63,2.36,2.08,1.67,3.38,3.32,2.74,4.70,0.85
+September,1.61,2.72,0.47,0.75,2.44,2.15,0.13,2.30,1.90,1.22
+October,0.58,1.97,5.09,4.24,1.06,2.69,2.57,1.96,2.30,2.12
+November,2.26,4.40,2.60,2.54,1.56,0.81,2.90,3.81,3.11,2.01
+December,2.26,0.31,2.29,2.97,1.23,3.57,2.52,3.35,0.95,1.90
+Total,23.71,21.56,26.11,26.02,22.39,26.67,24.33,24.37,32.82,20.64
+,,,,,,,,,,
+TYRain_1900-1909_22_pt1/121,,,,,,,,,,
+TYRain_1910-1919_20_pt1/293,,,,,,,,,,
+,,,,,,,,,,
+"# Readings for 1904-1907 look to be for a slightly different location, and possibly for a different gauge, but have been retained.",,,,,,,,,,
+#,,,,,,,,,,
+"# There were multiple gauges running in parallel at Mount St. John, and the rainfall sheet headings are confusing.",,,,,,,,,,
+# Consequently the linkage of rainfall sheets into sequences presented here may not be completely correct.,,,,,,,,,,
+#,,,,,,,,,,
+"# The December 1906 reading is shown with a question mark, and the total for 1906 is shown in brackets without explanation. Both have been retained.",,,,,,,,,,
+#,,,,,,,,,,
+# The readings for March-December 1907 are duplicated on a second sheet for the Mount St John site (TYRain_1900-1909_22_pt1 page 119) and have been retained.,,,,,,,,,,
