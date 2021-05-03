@@ -14,8 +14,8 @@ August,,1.36,0.55,3.92,2.00,1.99,2.11,3.90,3.04,0.02,3.35,2.25,1.95,3.18
 September,2.36,0.88,0.49,0.67,0.92,1.92,3.68,1.15,2.50,1.34,2.08,1.31,3.45,1.57
 October,2.05,2.87,2.36,2.72,2.00,0.79,2.19,1.93,2.46,0.10,1.73,3.82,0.84,0.86
 November,1.59,3.42,3.86,2.64,2.32,1.94,3.20,0.60,3.74,0.87,1.17,2.30,3.42,2.95
-December,3.32,2.17,1.44,0.36,1.33,0.76,1.14,2.19,2.04,1.76,2.98,1.08,1.27,1.12
-Total,,22.79,20.72,25.46,18.94,17.44,23.26,20.14,23.45,17.48,23.59,20.36,23.85,24.74
+December,3.32,2.17,1.44,0.36,1.33,0.76,1.14,2.19,2.04,1.76,2.98,1.08,,1.12
+Total,,22.79,20.72,25.46,18.94,17.44,23.26,20.14,23.45,17.48,23.59,20.36,,24.74
 ,,,,,,,,,,,,,,
 TYRain_1931-1940_15_pt1/110,,,,,,,,,,,,,,
 TYRain_1941-1950_17_pt1/194,,,,,,,,,,,,,,
@@ -24,4 +24,4 @@ TYRain_1951-1960_15_pt1/196,,,,,,,,,,,,,,
 "# The gauge, with the same observer, moves to this side from the Boston Bargate End site at the end of August 1938.",,,,,,,,,,,,,,
 #,,,,,,,,,,,,,,
 # February-March 1947 are bracketed on the sheet and recorded as apportioned.,,,,,,,,,,,,,,
-# The December 1950 figure is shown in brackets on the sheet without explanation. It has been retained.,,,,,,,,,,,,,,
+# The December 1950 figure is shown as an estimate and has been omitted.,,,,,,,,,,,,,,
