@@ -1,5 +1,5 @@
 STRATFORD-ON-AVON VICARAGE,,,,,,,,,,,,,,,,,,,,
-Grid ref,SP200547,Long,-1.7076,Lat,52.1904,Elevation,134,ft,,,,,,,,,,,,
+Grid ref,,Long,,Lat,,Elevation,,ft,,,,,,,,,,,,
 Station no,RR2109,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,
 ,1860,1861,1862,1863,1864,1865,1866,1867,1868,1869,1870,1871,1872,1873,1874,1875,1876,1877,1878,1879
@@ -17,5 +17,7 @@ November,,,,,,3.91,5.5,1.43,4.07,8.14,3.25,3.63,6.68,2.68,4.95,7.06,3.05,2.77,2.
 December,,,,,,2.04,6.06,2.95,4.08,6.55,3.55,2.83,3.8,2.99,4.86,3.02,5.89,1.48,1.86,
 Total,,,,,,36.41,44.6,43.16,38.33,45.35,39.85,41.14,57.52,42.21,44.41,41.1,46.79,27.43,30.56,
 ,,,,,,,,,,,,,,,,,,,,
+"NOTE: THESE DATA ARE DUPLICATES OF TWO SHEETS FROM LONDONDERRY, NORTHERN IRELAND. IT APPEARS AS THOUGH THE LONDONDERRY LOCATION IS CORRECT. ",,,,,,,,,,,,,,,,,,,,
+THE NOMINAL NGR IS SP200547 BUT THIS IS NOT INCLUDED DUE TO THE LOCATION UNCERTAINTY.,,,,,,,,,,,,,,,,,,,,
 1869 total miscalculated on record,,,,,,,,,,,,,,,,,,,,
 "1879 Nov 9 gauge moved to Rother St therefore removed Nov,Dec and total",,,,,,,,,,,,,,,,,,,,
