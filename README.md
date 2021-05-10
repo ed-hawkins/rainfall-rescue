@@ -13,3 +13,6 @@ The SUMMARY-GRAPHICS/ and REGIONAL-TIMESERIES/ folders contain graphics summaris
 The COMPOSITE-SERIES/ folder contains a few places where several locations can be combined to produce very long timeseries for a small area.
 
 The LOCATION-SHEETS/ folder contains spreadsheets which have been used to identify the places and locations of the individual sheets.
+
+[![DOI](https://zenodo.org/badge/261481817.svg)](https://zenodo.org/badge/latestdoi/261481817)
+
