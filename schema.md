@@ -34,9 +34,9 @@ The grid references are usually given on the [GB OS grid](https://britishnationa
 
 ### Naming
 
-The source files names usually start with TYRain_, followed by two years separated by a hyphen which denote the decade for which the data represents. This is followed by either a series of letters or numbers which denote with of the [original PDF files](https://digital.nmla.metoffice.gov.uk/SO_d383374a-91c3-4a7b-ba96-41b81cfb9d67/) the sheet is contained in. This is followed by the page number of that PDF. 
+The source files names usually start with TYRain_, followed by two years separated by a hyphen which denote the decade for which the data represents. This is followed by either a series of letters or numbers which denote which of the [original PDF files](https://digital.nmla.metoffice.gov.uk/SO_d383374a-91c3-4a7b-ba96-41b81cfb9d67/) the sheet is contained in. This is followed by the page number of that PDF. 
 
-Some of the source files start with ERROR_ - these are sheets for which there has either been disagreement in the original transcriptions, or an identified issue with the data, usually that a set of twelve months does not add up to the transcribed annual total. Some source files start with MISFILED_ which indicates that the page from the PDF was for a different decade than the PDF name indicated. These have been poorly transcribed due to original transcription process.
+Some of the source files start with ERROR_ - these are sheets for which there has either been disagreement in the original transcriptions, or an identified issue with the data (usually that a set of twelve months does not add up to the transcribed annual total). Some source files start with MISFILED_ which indicates that the page from the PDF was for a different decade than the PDF name indicated. These have been poorly transcribed due to original transcription process.
 
 ### Shape
 
@@ -82,9 +82,9 @@ Rows 5-20 contain the main data table. Row 5 contains the column year headings, 
 
 ### Naming
 
-All the combined files start with the same string as the folder name. If there is only a single combined file then it will be the folder name followed by '.csv'. Many folders represent more than one rain gauge, or a rain gauge was moved during the sequence. Additional combined files end with '-X.csv' where X is a value from 2 upwards. 
+All the combined files start with the same text string as the folder name. If there is only a single combined file then it will be the folder name followed by '.csv'. Many folders represent more than one rain gauge, or a rain gauge was moved during the sequence. Additional combined files end with '-X.csv' where X is a value from 2 upwards. 
 
-In addition, some folders contain combined files for which the data is either very limited, duplicates or questionable data. These have additional text strings before the '.csv'. These should not be used in any further analysis unless the issues with them have been understood.
+In addition, some folders contain combined files for which the data is either very limited, duplicates or questionable. These have additional text strings before the '.csv'. These should not be used in any further analysis unless the issues with them have been understood.
 
 ### Shape
 
