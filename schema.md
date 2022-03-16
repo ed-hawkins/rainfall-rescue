@@ -20,7 +20,8 @@ The following data types are used in the schema.
 | ---- | ---- |
 | blank | Indicates the absence of a value. Equivalent to an empty string. |
 | string | A string of text |
-| integer | A positive whole number |
+| unsigned | A positive whole number |
+| signed | A positive or negative whole number |
 | float | A floating point number |
 | nan | [Not a Number](https://en.wikipedia.org/wiki/NaN) |
 
@@ -52,7 +53,7 @@ Rows 1-3 contain the sheet metadata. Each value occupies a single cell. All meta
 | B2   | GRID_REFERENCE | UK or Irish grid reference | string\|blank |
 | D2   | LONGITUDE | WSG84 longitude | float\|nan\|blank | degrees |
 | F2   | LATITUDE | WSG84 latitude | float\|nan\|blank | degrees |
-| H2   | ELEVATION | Elevation | integer\|blank | foot |
+| H2   | ELEVATION | Elevation | signed\|blank | foot |
 | B3   | STATION_NUMBER | Station number | string\|blank | |
 
 ### Data
@@ -61,7 +62,7 @@ Rows 5-20 contain the main data table. Row 5 contains the column year headings, 
 
 | Range | Name | Description | Type | Unit |
 | ---- | ---- | ---- | ---- | ---- |
-| B5:(EYC)5   | YEAR_HEADINGS | Year headings | integer | |
+| B5:(EYC)5   | YEAR_HEADINGS | Year headings | unsigned | |
 | B6:(EYC)6   | JANUARY_ROW | Rainfall amounts for January | float\|blank | inch |
 | B7:(EYC)7   | FEBRUARY_ROW | Rainfall amounts for February | float\|blank | inch |
 | B8:(EYC)8   | MARCH_ROW | Rainfall amounts for March | float\|blank | inch |
@@ -100,7 +101,7 @@ Rows 1-3 contain the sheet metadata. Each value occupies a single cell. Other th
 | B2   | GRID_REFERENCE | UK or Irish grid reference | string\|blank |
 | D2   | LONGITUDE | WSG84 longitude | float\|blank | degrees |
 | F2   | LATITUDE | WSG84 latitude | float\|blank | degrees |
-| H2   | ELEVATION | Elevation | integer\|blank | foot |
+| H2   | ELEVATION | Elevation | signed\|blank | foot |
 | B3   | STATION_NUMBER | Station number | string\|blank | |
 
 ### Data
@@ -109,7 +110,7 @@ Rows 5-18 contain the main data table. Row 5 contains the column year headings, 
 
 | Range | Name | Description | Type | Unit |
 | ---- | ---- | ---- | ---- | ---- |
-| B5:(EYC)5   | YEAR_HEADINGS | Year headings | integer | |
+| B5:(EYC)5   | YEAR_HEADINGS | Year headings | unsigned | |
 | B6:(EYC)6   | JANUARY_ROW | Rainfall amounts for January | float\|blank | inch |
 | B7:(EYC)7   | FEBRUARY_ROW | Rainfall amounts for February | float\|blank | inch |
 | B8:(EYC)8   | MARCH_ROW | Rainfall amounts for March | float\|blank | inch |
