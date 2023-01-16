@@ -1,0 +1,24 @@
+﻿ANDERBY,,,,,,,,,,
+Grid ref,TF514755,Long,0.268,Lat,53.255,Elevation,9,ft,,
+Station no,2565/2,,,,,,,,,
+,,,,,,,,,,
+,1951,1952,1953,1954,1955,1956,1957,1958,1959,1960
+January,,,,,,,,,3.74,4.89
+February,,,,,,,,,0.25,2.72
+March,,,,,,,,,1.74,1.07
+April,,,,,,,,,1.50,1.05
+May,,,,,,,,2.79,0.32,0.49
+June,,,,,,,,2.89,0.75,0.80
+July,,,,,,,,5.72,1.51,3.32
+August,,,,,,,,1.87,1.00,2.78
+September,,,,,,,,2.30,0.26,2.44
+October,,,,,,,,1.53,1.97,5.09
+November,,,,,,,,0.76,2.51,3.90
+December,,,,,,,,3.24,4.78,4.23
+Total,,,,,,,,,20.33,32.78
+,,,,,,,,,,
+TYRain_1951-1960_15_pt1/243,,,,,,,,,,
+,,,,,,,,,,
+# The gauge came from the separate Anderby Pumping Station site about 2 miles to the east in 1958.,,,,,,,,,,
+#,,,,,,,,,,
+# The station continued until 2000 according to MIDAS. (MIDAS src_id = 3800),,,,,,,,,,

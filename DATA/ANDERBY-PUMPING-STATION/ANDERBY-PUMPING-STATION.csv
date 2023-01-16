@@ -1,0 +1,27 @@
+﻿ANDERBY PUMPING STATION,,,,,,,,,
+Grid ref,TF545750,Long,0.314,Lat,53.250,Elevation,9,ft,
+Station no,2565/1,,,,,,,,
+,,,,,,,,,
+,1950,1951,1952,1953,1954,1955,1956,1957,1958
+January,1.48,,,1.12,2.50,1.42,3.41,0.88,2.57
+February,5.24,,0.57,2.33,3.43,1.51,1.00,2.39,2.52
+March,1.07,,,1.06,2.71,2.19,0.69,1.52,1.56
+April,3.17,,1.30,3.63,0.49,0.91,1.03,0.37,1.03
+May,2.03,,1.67,2.71,3.29,3.11,0.54,1.66,
+June,1.71,,1.86,5.11,2.74,3.32,2.37,1.48,
+July,3.26,,0.47,1.41,2.32,0.90,2.77,2.68,
+August,3.19,,1.62,2.46,4.67,1.32,3.22,2.50,
+September,3.32,,,1.64,2.21,1.09,1.29,3.52,
+October,2.21,,3.90,3.00,3.03,1.60,0.95,1.19,
+November,5.62,,,1.84,3.49,1.09,0.77,2.01,
+December,1.70,,2.78,1.46,1.73,1.59,1.27,1.91,
+Total,34.00,,,27.77,32.61,20.05,19.31,22.11,
+,,,,,,,,,
+TYRain_1941-1950_17_pt1/244,,,,,,,,,
+TYRain_1951-1960_15_pt1/242,,,,,,,,,
+,,,,,,,,,
+"# The readings for January, March, September and November 1952 are shown modified and bracketed, and have been omitted.",,,,,,,,,
+# The 1953 total has been increased by 0.06 compared to the sheet figure to match the sum of the months.,,,,,,,,,
+# The 1955 total has been increased by 0.01 compared to the sheet figure to match the sum of the months.,,,,,,,,,
+#,,,,,,,,,
+# The gauge moved about 2 miles west to the separate Anderby site in 1958.,,,,,,,,,
