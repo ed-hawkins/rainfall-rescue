@@ -1,0 +1,25 @@
+﻿BEVERLEY - LAIRGATE,,,,,,,,,,
+Grid ref,TA033393,Long,-0.432,Lat,53.840,Elevation,34,ft,,
+Station no,3398/3,,,,,,,,,
+,,,,,,,,,,
+,1951,1952,1953,1954,1955,1956,1957,1958,1959,1960
+January,,,,,,,1.41,2.19,2.08,5.03
+February,,,,,,1.64,2.32,3.91,0.19,1.90
+March,,,,,,1.39,1.31,1.88,1.42,1.13
+April,,,,,,1.52,0.33,0.94,3.18,1.00
+May,,,,,,0.78,0.92,1.98,0.51,0.76
+June,,,,,,2.61,2.22,3.47,0.92,0.30
+July,,,,,,4.36,3.94,3.48,1.58,3.83
+August,,,,,,5.83,3.46,2.16,0.30,3.04
+September,,,,,,1.58,2.90,2.26,0.14,2.32
+October,,,,,,1.08,1.54,1.55,2.12,5.79
+November,,,,,,0.66,2.29,0.56,2.56,4.64
+December,,,,,,1.67,2.38,3.30,3.37,2.86
+Total,,,,,,,25.02,27.68,18.37,32.60
+,,,,,,,,,,
+TYRain_1951-1960_20_pt1/198,,,,,,,,,,
+,,,,,,,,,,
+# The reading for January 1956 is from the gauge's previous site (Broadgate Hospital) and has been omitted.,,,,,,,,,,
+# The reading for February 1956 is a part estimate and has been retained.,,,,,,,,,,
+#,,,,,,,,,,
+# The station continued until 1975 according to MIDAS. (MIDAS src_id = 2166),,,,,,,,,,
